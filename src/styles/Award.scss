@@ -1,0 +1,12 @@
+.award{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: gray;
+  
+  &__character{
+    margin-top: 10vh;
+    width: 100vh;
+  }
+}
